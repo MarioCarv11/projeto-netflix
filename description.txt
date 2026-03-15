@@ -1,0 +1,1 @@
+“Projeto antigo de um minicurso gratuito do YouTube que oferecia uma introdução mais amigável ao desenvolvimento web para pessoas interessadas em programação, mas com pouco ou nenhum conhecimento na área.”
